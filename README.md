@@ -45,3 +45,7 @@ This project explores distributional semantics to estimate the similarity betwee
 * All representations were built from scratch using the provided WikiText-103 corpus.
 * No pre-trained word vectors were used.
 * Multi-word terms and OOV handling were explicitly addressed.
+
+
+## Licence
+This project is licensed under the [MIT License](LICENSE).
